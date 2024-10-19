@@ -48,8 +48,12 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/36c7e382-1be7-4370-a9da-06b477f82ca0)
-![image](https://github.com/user-attachments/assets/36c69e9f-96af-4523-907a-1720a6ae379a)
+![{84434AFF-0018-4F23-ADA6-7B075FC7BD42}](https://github.com/user-attachments/assets/7a63ac78-2163-4c58-9a5d-0f7eae17afa1)
+![{BDA0B5FD-60A7-45B2-8EB5-2FB5CD026BF8}](https://github.com/user-attachments/assets/bb0908e7-d6a1-4ae6-b565-2e23e898de4b)
+
+
+
+
 
 
 ### Name:Sandeep
